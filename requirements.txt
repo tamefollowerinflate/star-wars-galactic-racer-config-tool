@@ -1,0 +1,2 @@
+# No external dependencies.
+# Native C++ build — see src/main.cpp
